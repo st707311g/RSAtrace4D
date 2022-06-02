@@ -1,0 +1,7 @@
+coloredlogs
+matplotlib
+more_itertools
+pandas
+scikit-image
+tensorflow
+tqdm
